@@ -1,4 +1,5 @@
 ##README
+<br>
 Competition link: <a href="https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection">Link</a> <br>
 Project by: archidisign, yzhang0 <br>
 The data can be downloaded at the Kaggle competition link and were not reuploaded onto this Github repository. The Kernel we developped only uses satellite images in 3-band format (traditional RGB natural color images). Full data information can be found at <a href="https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data">link</a>. <br>
@@ -24,7 +25,6 @@ This project was done with the help of previous successful kernel from the compe
 	<li><a href="https://www.kaggle.com/aamaia/trees-are-red-buildings-are-blue-sort-of">Trees are red, buildings are blue (sort of)</a></li>
 	<li><a href="https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/kernels">All Kernels</a></li>
 </ul>
-<br><br>
 Furthermore, a post explaining the science of semantic segmentation can be found on my blog <a href="https://catharticstudent.wordpress.com"> here </a>.
 <br>
 Tools: Python, Jupyter Notebooks
